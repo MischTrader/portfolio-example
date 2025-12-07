@@ -1,8 +1,6 @@
 # Welcome to My Data Science Portfolio
 
-This portfolio contains a summary of my work, including machine learning exercises, a hackathon project, and critical reflections.
-
-This website is built automatically using GitHub Pages. The main page you're reading right now is generated from the `README.md` file.
+This portfolio contains a summary of my work, including machine learning exercises and critical reflections.
 
 ## Table of Contents
 
