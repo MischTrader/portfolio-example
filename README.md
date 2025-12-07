@@ -14,7 +14,7 @@ This portfolio contains a summary of my work, including machine learning exercis
     * A summary of my findings from tuning a Random Forest Classifier.
 1.  **[Hackathon Model: Project Cuddlefish](./6-hackathon/project_cuddlefish.md)**
     * Our award-winning model that predicts the optimal camouflage pattern for a cuttlefish based on its environment.
-1.  **[deployment](./5-deployment: Nijmeegse Straattaal Generator/(https://github.com/MischTrader/MADS-deployment) summary.md)**
+1.  **[deployment](./5-deployment: Nijmeegse Straattaal Generator/summary.md) (https://github.com/MischTrader/MADS-deployment)**
     * The result of my own deployment
 1.  **[Ethical Reflection: The Cuddlefish Dilemma](./7-ethics/summary.md)**
     * A critical analysis of the ethical implications of AI-driven camouflage.
