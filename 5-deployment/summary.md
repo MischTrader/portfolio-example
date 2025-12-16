@@ -1,4 +1,3 @@
-# Summary week 5
 # Deployment – Nijmeegse Straattaal Generator
 
 Deze pagina beschrijft het deployment-artefact van mijn MADS project:
