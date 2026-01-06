@@ -5,7 +5,7 @@ This portfolio contains a summary of my work, including machine learning exercis
 ## Table of Contents
 
 1. **[Hyperparameter gridsearch]**
-   - [Bekijk dep details →](1-Hyperparameter/summary.md)
+   - [Ga naar de summary→](1-hypertuning-gridsearch/summary.md)
 2. **[Hyperparameter mlflow]**
    - Summary of the second week
 3. **[Hyperparameter rnn]**
