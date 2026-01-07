@@ -28,7 +28,7 @@ van het optimum tijdens optimalisatie.
 - Logging via TensorBoard
 
 ## Resultaten
-![Heatmap]([plots/https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/plots/heatmap_best_val_acc.png])
+![Heatmap] https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/plots/heatmap_best_val_acc.png
 
 ## Observatie
 - De heatmap laat een duidelijke interactie zien tussen learning rate (lr) en fc_units:
