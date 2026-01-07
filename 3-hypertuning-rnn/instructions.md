@@ -1,4 +1,4 @@
-# Excercises
+# Excercise 3 Improve the RNN Model
 
 - try to improve the RNN model
 - test different things. What works? What does not?
