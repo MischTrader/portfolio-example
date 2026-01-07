@@ -23,6 +23,7 @@ Resultaten samengevat in metrics.csv en gevisualiseerd met heatmaps
 
 ## Resultaten
 [Heatmap] https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/plots/ex2_heatmap_lr_fc_norm_batchnorm.png
+
 [Heatmap] https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/plots/ex2_heatmap_lr_fc_norm_none.png
 
 ## Observatie
