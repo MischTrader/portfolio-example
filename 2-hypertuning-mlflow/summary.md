@@ -21,6 +21,10 @@ Evaluatie op validatieset
 Logging via MLflow
 Resultaten samengevat in metrics.csv en gevisualiseerd met heatmaps
 
+## Resultaten
+[Heatmap] https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/plots/ex2_heatmap_lr_fc_norm_batchnorm.png
+[Heatmap] https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/plots/ex2_heatmap_lr_fc_norm_none.png
+
 ## Observatie
 De resultaten laten een duidelijk effect van normalisatie zien:
 Modellen met BatchNorm behalen consistent hogere validatie-accuracies dan modellen zonder normalisatie.
