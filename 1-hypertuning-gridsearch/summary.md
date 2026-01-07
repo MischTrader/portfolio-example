@@ -40,7 +40,6 @@ van het optimum tijdens optimalisatie.
   het effect van de learning rate kan versterken of afzwakken.
 
 ## Verklaring
-
 De learning rate bepaalt de grootte van de updates in de parameter-ruimte tijdens training.
 Bij lr = 0.01 zijn deze updates te groot, waardoor het model het optimum overschrijdt en slecht generaliseert. Dit effect is sterker zichtbaar bij kleinere modellen, 
 die minder representatiekracht hebben om instabiliteit op te vangen.
