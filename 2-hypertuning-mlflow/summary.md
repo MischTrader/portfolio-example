@@ -35,4 +35,4 @@ BatchNorm reduceert interne covariate shift door activaties te normaliseren, wat
 Waar in exercise 1 de learning rate de dominante factor was, toont deze experimentreeks aan dat architecturale keuzes zoals normalisatie een grote invloed hebben op hyperparameter-interacties. BatchNorm vergroot de stabiliteit en generalisatie van het model en verkleint het risico op instabiele training. Dit onderstreept dat effectieve hyperparameter-tuning niet los gezien kan worden van architectuurkeuzes.
 
 ## Links
-Code & experimenten: https://github.com/MischTrader/MADS-MachineLearning-course/tree/ex2-mlflow-cnn-norm
+Code & experimenten: https://github.com/MischTrader/MADS-MachineLearning-course/tree/ex2-mlflow-cnn-norm/src
