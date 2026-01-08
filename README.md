@@ -9,7 +9,7 @@ This portfolio contains a summary of my work, including machine learning exercis
 2. **[Hyperparameter mlflow]**
    - [Ga naar de summary](2-hypertuning-mlflow/summary.md)
 3. **[Hyperparameter rnn]**
-   - Summary of the third week
+   - [Ga naar de summary](3-hypertuning-rnn/summary.md)
 4. **[Hyperparameter ray]**
    - A summary of my findings from tuning a Random Forest Classifier.
 5. **[Hackathon Model: Project Cuddlefish]**
