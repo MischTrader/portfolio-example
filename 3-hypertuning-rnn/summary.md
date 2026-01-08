@@ -31,10 +31,10 @@ Ik verwachtte dat:
 - Runs gegroepeerd binnen één experiment (gestures-ex3) voor directe vergelijking
 
 ## Resultaten
-De MLflow-resultaten laten een duidelijke prestatieverbetering zien per architectuurstap:
-GRU last-step: validatie-accuracy ≈ 0.96–0.97
-GRU mean pooling: validatie-accuracy ≈ 0.98
-Conv1D + GRU mean pooling: validatie-accuracy ≈ 0.99
+- De MLflow-resultaten laten een duidelijke prestatieverbetering zien per architectuurstap:
+- GRU last-step: validatie-accuracy ≈ 0.96–0.97
+- GRU mean pooling: validatie-accuracy ≈ 0.98
+- Conv1D + GRU mean pooling: validatie-accuracy ≈ 0.99
 
 Daarnaast vertoont het Conv1D-model een snellere convergentie en lagere validatie-loss.
 
