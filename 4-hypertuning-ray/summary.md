@@ -1,6 +1,8 @@
 ## Summary week 4
 Hyperparameter Tuning – Architectuur en Stabiliteit (Ray Tune)
 
+# Dit experiment is code-first uitgevoerd; hypothese, analyse en reflectie zijn daarom los vastgelegd in deze summary en het bijbehorende rapport, in plaats van in notebooks.
+
 ## Doel
 Onderzoeken hoe modelcapaciteit en architecturale keuzes binnen een convolutioneel neuraal netwerk de prestaties en trainingsstabiliteit beïnvloeden. Specifiek richt dit experiment zich op de interactie tussen netwerkdiepte en -breedte, regularisatietechnieken (dropout, batch normalization) en skip connections, met gebruik van Ray Tune voor systematische hypertuning.
 
@@ -30,7 +32,5 @@ De infrastructuur voor hypertuning met Ray Tune is volledig geïmplementeerd en 
 
 ## Reflectie
 Dit experiment benadrukt het belang van het scheiden van engineering en experimentontwerp bij hypertuning. Door eerst een robuuste, configureerbare pipeline op te zetten, wordt het mogelijk om hyperparameter-interacties gecontroleerd te onderzoeken. In tegenstelling tot eerdere opdrachten ligt de nadruk hier expliciet op iteratief experimenteren: eerst richting vinden, daarna verfijnen.
-
-## Dit experiment is code-first uitgevoerd; hypothese, analyse en reflectie zijn daarom los vastgelegd in deze summary en het bijbehorende rapport, in plaats van in notebooks.
 
 Links Code & experimenten: https://github.com/MischTrader/Mischa-Peters-Portfolio/tree/main/4-hypertuning-ray
