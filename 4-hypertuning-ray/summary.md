@@ -33,6 +33,11 @@ De resultaten uit fase 1 laten zien dat modellen met drie convolutionele lagen c
 ## Resultaten fase 2
 De fase-2 experimenten tonen aan dat modellen met drie convolutionele lagen en een middelgrote capaciteit (base_channels = 48) de beste validatieprestaties behalen binnen een vast trainingsbudget van 12 epochs. De hoogste validatie-accuracy (~0.73) werd bereikt door een model met batch normalization, zonder dropout of skip connections, en een learning rate rond 5×10⁻⁴. [phase2.csv](https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/ex4_Ray/exports/phase2.csv)
 
+1. [Heatmap_1](https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/ex4_Ray/plots/phase2_heatmap_lr_x_channels_skip_false.png)
+2. [Heatmap_2](https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/ex4_Ray/plots/phase2_heatmap_lr_x_channels_skip_true.png)
+3. [Scatter_1](https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/ex4_Ray/plots/phase2_scatter_params_vs_acc.png)
+
+ 
 ## Observatie
 Batch normalization blijkt een consistente positieve bijdrage te leveren aan zowel prestatie als trainingsstabiliteit. In tegenstelling tot de initiële hypothese leveren dropout en skip connections in deze configuratie geen duidelijke winst op. Grotere modellen laten geen proportionele prestatieverbetering zien, wat wijst op afnemend rendement bij toenemende capaciteit binnen dit epoch-budget.
 
