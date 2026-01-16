@@ -17,5 +17,5 @@ This portfolio contains a summary of my work, including machine learning exercis
 6. **[Deployment: Nijmeegse Straattaal Generator]**
    - [Opdracht 6 Summary](5-deployment/summary.md)
 7. **[Ethical Reflection: The Cuddlefish Dilemma]**
-   - [Summary 1](7-ethics/summary_1.md)
-   - [Summary 2](7-ethics/summary_2.md)
+   - [Summary Assignment 1](7-ethics/summary_1.md)
+   - [Summary Assigment 2](7-ethics/summary_2.md)
