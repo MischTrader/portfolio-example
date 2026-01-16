@@ -22,9 +22,8 @@ Logging via MLflow
 Resultaten samengevat in metrics.csv en gevisualiseerd met heatmaps
 
 ## Resultaten
-[Heatmap] https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/plots/ex2_heatmap_lr_fc_norm_batchnorm.png
-
-[Heatmap] https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/plots/ex2_heatmap_lr_fc_norm_none.png
+1. [Heatmap 1](https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/plots/ex2_heatmap_lr_fc_norm_batchnorm.png)
+2. [Heatmap 2](https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/plots/ex2_heatmap_lr_fc_norm_none.png)
 
 ## Observatie
 De resultaten laten een duidelijk effect van normalisatie zien:
@@ -40,4 +39,4 @@ BatchNorm reduceert interne covariate shift door activaties te normaliseren, wat
 Waar in exercise 1 de learning rate de dominante factor was, toont deze experimentreeks aan dat architecturale keuzes zoals normalisatie een grote invloed hebben op hyperparameter-interacties. BatchNorm vergroot de stabiliteit en generalisatie van het model en verkleint het risico op instabiele training. Dit onderstreept dat effectieve hyperparameter-tuning niet los gezien kan worden van architectuurkeuzes.
 
 ## Links
-Code & experimenten: https://github.com/MischTrader/MADS-MachineLearning-course/tree/ex2-mlflow-cnn-norm/src
+[Code & experimenten:](https://github.com/MischTrader/MADS-MachineLearning-course/tree/ex2-mlflow-cnn-norm/src)
