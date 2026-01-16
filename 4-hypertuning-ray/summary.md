@@ -1,7 +1,7 @@
 ## Summary week 4
 Hyperparameter Tuning – Architectuur en Stabiliteit (Ray Tune)
 
-# #Doel
+## Doel
 Onderzoeken hoe modelcapaciteit en architecturale keuzes binnen een convolutioneel neuraal netwerk de prestaties en trainingsstabiliteit beïnvloeden. Specifiek richt dit experiment zich op de interactie tussen netwerkdiepte en -breedte, regularisatietechnieken (dropout, batch normalization) en skip connections, met gebruik van Ray Tune voor systematische hypertuning.
 
 ## Dataset
