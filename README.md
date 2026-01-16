@@ -5,13 +5,13 @@ This portfolio contains a summary of my work, including machine learning exercis
 ## Table of Contents
 
 1. **[Hyperparameter gridsearch]**
-   - [Ga naar de summary](1-hypertuning-gridsearch/summary.md)
+   - [Opdracht 1_Summary](1-hypertuning-gridsearch/summary.md)
 2. **[Hyperparameter mlflow]**
-   - [Ga naar de summary](2-hypertuning-mlflow/summary.md)
+   - [Opdracht 2 Summary](2-hypertuning-mlflow/summary.md)
 3. **[Hyperparameter rnn]**
-   - [Ga naar de summary](3-hypertuning-rnn/summary.md)
+   - [Opdracht 3 Summary](3-hypertuning-rnn/summary.md)
 4. **[Hyperparameter ray]**
-   - A summary of my findings from tuning a Random Forest Classifier.
+   - [Opdracht 4 Summary](4-hypertuning-ray/summary.md)
 5. **[Hackathon Model: Project Cuddlefish]**
    - Our award-winning model that predicts the optimal camouflage pattern for a cuttlefish based on its environment.
 6. **[Deployment: Nijmeegse Straattaal Generator]**
