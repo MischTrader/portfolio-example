@@ -12,7 +12,7 @@ This portfolio contains a summary of my work, including machine learning exercis
    - [Opdracht 3 Summary](3-hypertuning-rnn/summary.md)
 4. **[Hyperparameter ray]**
    - [Opdracht 4 Summary](4-hypertuning-ray/summary.md)
-5. **[Hackathon Model: Kadaster Rechtsfeiten]**
+5. **[Hackathon: Kadaster Rechtsfeiten]**
    - [Opdracht 5 Hackathon Model](https://github.com/MaxNollet/mads-2025-hackathon/tree/main/src/akte_classifier/models)
 6. **[Deployment: Nijmeegse Straattaal Generator]**
    - [Opdracht 6 Summary](5-deployment/summary.md)
