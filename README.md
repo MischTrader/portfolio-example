@@ -17,4 +17,5 @@ This portfolio contains a summary of my work, including machine learning exercis
 6. **[Deployment: Nijmeegse Straattaal Generator]**
    - [Opdracht 6 Summary](5-deployment/summary.md)
 7. **[Ethical Reflection: The Cuddlefish Dilemma]**
-   - A critical analysis of the ethical implications of AI-driven camouflage.
+   - [Summary 1](7-ethics/summary_1.md)
+   - [Summary 2](7-ethics/summary_2.md)
