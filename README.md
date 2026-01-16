@@ -16,6 +16,6 @@ This portfolio contains a summary of my work, including machine learning exercis
    - [Opdracht 5 Hackathon Model](https://github.com/MaxNollet/mads-2025-hackathon/tree/main/src/akte_classifier/models)
 6. **[Deployment: Nijmeegse Straattaal Generator]**
    - [Opdracht 6 Summary](5-deployment/summary.md)
-7. **[Ethical Reflection: The Cuddlefish Dilemma]**
+7. **[Ethical Reflections]**
    - [Summary Assignment 1](7-ethics/summary_1.md)
    - [Summary Assigment 2](7-ethics/summary_2.md)
