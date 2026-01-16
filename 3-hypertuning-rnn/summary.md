@@ -47,4 +47,4 @@ Mean pooling reduceert de afhankelijkheid van sequentielengte en padding door in
 ## Reflectie
 Waar eerdere experimenten vooral focusten op optimalisatie en hyperparameters, laat deze week zien dat architecturale representatiekeuzes binnen RNN’s cruciaal zijn. Kleine aanpassingen in hoe sequenties worden samengevat of voorbewerkt (pooling, Conv1D) leiden tot significante prestatiewinst. Dit onderstreept het belang van het expliciet nadenken over tensorvormen en informatieflow in sequentiële modellen.
 
-Code & experimenten: https://github.com/MischTrader/MADS-MachineLearning-course/tree/master/notebooks/ex3
+[Code & experimenten:](https://github.com/MischTrader/MADS-MachineLearning-course/tree/master/notebooks/ex3)
