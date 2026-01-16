@@ -46,3 +46,5 @@ Batch normalization stabiliseert activaties en gradiënten, waardoor het optimal
 
 ## Reflectie
 Dit experiment laat zien dat hyperparameter-tuning pas betekenisvol wordt wanneer architectuurkeuzes expliciet worden meegenomen. Waar in fase 1 vooral richting werd bepaald, maakt fase 2 duidelijk dat meer complexiteit niet automatisch betere prestaties oplevert. De resultaten benadrukken het belang van gecontroleerde experimenten met vaste trainingsbudgetten en onderstrepen dat regularisatietechnieken contextafhankelijk zijn. In een volgende iteratie zou een groter epoch-budget of een diepere architectuur kunnen worden onderzocht om het effect van skip connections verder te evalueren.
+
+[Code & experimenten:]((https://github.com/MischTrader/MADS-MachineLearning-course/tree/master/src_ray)
