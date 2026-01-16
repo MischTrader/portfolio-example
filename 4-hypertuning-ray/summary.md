@@ -27,8 +27,8 @@ Ik verwachtte dat modellen met hogere capaciteit betere validatieprestaties beha
 Als eerste stap is een configureerbare trainingspipeline opgezet waarin model- en trainingsparameters strikt gescheiden zijn via configuratie-objecten. Met Ray Tune is een hypertuning-setup geïmplementeerd waarin zowel architectuur- als trainingsparameters kunnen worden gevarieerd.
 In de huidige fase is een brede oriëntatie opgezet met korte trainingsruns om kansrijke configuraties en instabiele regio’s in de hyperparameter-ruimte te identificeren. Deze fase is bedoeld als richtinggevend en niet voor definitieve conclusies.
 
-## Status
-De infrastructuur voor hypertuning met Ray Tune is volledig geïmplementeerd en getest. De brede exploratiefase is voorbereid; een verfijnde tweede fase met vaste trainingsbudgetten en gedetailleerde analyse volgt in een volgende iteratie.
+## Observatie 1
+De resultaten uit fase 1 laten zien dat modellen met drie convolutionele lagen consistent beter presteren dan ondiepere of diepere varianten binnen het beperkte epoch-budget. Vooral configuraties met base_channels van 48 of 64 en batch normalization tonen stabielere validatieprestaties. Hoge learning rates leiden regelmatig tot slechtere prestaties, wat wijst op instabiliteit bij deze architecturen. Op basis van deze observaties is in fase 2 gekozen voor een verfijnde zoekruimte waarin n_conv is gefixeerd op 3 en alleen kansrijke waarden voor base_channels en learning rate zijn onderzocht, met een vast trainingsbudget voor alle configuraties.
 
 ## Reflectie
 Dit experiment benadrukt het belang van het scheiden van engineering en experimentontwerp bij hypertuning. Door eerst een robuuste, configureerbare pipeline op te zetten, wordt het mogelijk om hyperparameter-interacties gecontroleerd te onderzoeken. In tegenstelling tot eerdere opdrachten ligt de nadruk hier expliciet op iteratief experimenteren: eerst richting vinden, daarna verfijnen.
