@@ -15,9 +15,6 @@ This portfolio contains a summary of my work, including machine learning exercis
 5. **[Hackathon Model: Kadaster Rechtsfeiten]**
    - [Opdracht 5 Hackathon Model](https://github.com/MaxNollet/mads-2025-hackathon/tree/main/src/akte_classifier/models)
 6. **[Deployment: Nijmeegse Straattaal Generator]**
-   - Live NLP-applicatie gedeployed op SURF
-   - Dockerized FastAPI backend met HTML frontend
-   - [Bekijk deployment details →](5-deployment/summary.md)
-   - [Live applicatie → http://145.38.194.28]
+   - [Opdracht 6 Summary](5-deployment/summary.md)
 7. **[Ethical Reflection: The Cuddlefish Dilemma]**
    - A critical analysis of the ethical implications of AI-driven camouflage.
