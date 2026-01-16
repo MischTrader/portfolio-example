@@ -38,7 +38,7 @@ De fase-2 experimenten tonen aan dat modellen met drie convolutionele lagen en e
 3. [Scatter_1](https://github.com/MischTrader/MADS-MachineLearning-course/blob/master/results/ex4_Ray/plots/phase2_scatter_params_vs_acc.png)
 
  
-## Observatie
+## Observatie fase 2
 Batch normalization blijkt een consistente positieve bijdrage te leveren aan zowel prestatie als trainingsstabiliteit. In tegenstelling tot de initiële hypothese leveren dropout en skip connections in deze configuratie geen duidelijke winst op. Grotere modellen laten geen proportionele prestatieverbetering zien, wat wijst op afnemend rendement bij toenemende capaciteit binnen dit epoch-budget.
 
 ## Verklaring
