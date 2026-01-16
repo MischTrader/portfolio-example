@@ -59,6 +59,4 @@ Te kleine modellen onderfitten, grotere modellen
 leveren geen extra winst binnen dit epoch-budget.
 
 ## Links
-- Code & experimenten: (https://github.com/MischTrader/MADS-MachineLearning-course/tree/ex1-hypertuning-gridsearch/src)
-
-→ Terug naar portfolio homepage
+[Code & experimenten:](https://github.com/MischTrader/MADS-MachineLearning-course/tree/ex1-hypertuning-gridsearch/src)
