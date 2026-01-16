@@ -5,7 +5,7 @@ een NLP-applicatie die nieuwe Nijmeegse straattaalwoorden genereert.
 
 ## Live applicatie
 De applicatie draait op een SURF VM en is bereikbaar via:
-http://145.38.194.28 (Surf VM moet runnen)
+http://145.38.194.28 (Surf VM eerst runnen)
 
 ## Wat is gedeployed?
 - FastAPI backend
